@@ -32,3 +32,7 @@
 | OpenVLA-oft+| Yes         | Bi-manual Trossen, ViperX robot (ALOHA)                                        | LIBERO, Real-world                         | Stanford University          | 2025.02.27 |
 | HybridLVA   | Yes         | Franka Research 3, dual-arm AgileX robot                                       | RLBench                                    | Beijing Academy of AI        | 2025.03.xx |
 
+---
+
+## References
+https://www.bilibili.com/video/BV1W9TQzXESb
